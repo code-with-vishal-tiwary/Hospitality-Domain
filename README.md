@@ -1,24 +1,27 @@
 # Hospitality-Domain
 Power BI Dashboard
-The objective is to create a Power BI dashboard for AtliQ Grands, a hotel chain facing declining market share and revenue in the luxury/business segment. The dashboard should provide key business insights using historical data to help the company make data-driven decisions, regain market share, and improve revenue. Additionally, it should include relevant metrics and insights beyond the provided mock-up to address current business challenges.
+Problem statement
+Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
+Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-Identify Key Metrics: 
-Understand the metrics that have been defined in the metric list. These will likely include:
-1)Revenue (total revenue, room revenue, F&B revenue, etc.)
-2.Occupancy Rate
-3.Average Daily Rate (ADR)
-4.Revenue Per Available Room (RevPAR)
-5.Booking trends
-6.Customer segments (business vs leisure, geography, etc.)
-7.Seasonality patterns
-8.Market share compared to competitors
+Task List
+You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
-Key Insights:-
-Declining Market Share in High-Season Periods:
-Identify any seasonal trends in market share and revenue. For example, "AtliQ Grands' revenue from business travelers decreased by 15% in Q2 2024 compared to last year, indicating a loss in high-season bookings."
-Room Type Performance:-
-If certain types of rooms are underperforming, suggest price adjustments or marketing focus. "Standard rooms have an occupancy rate of 60%, while premium rooms have 85%. Consider promotional offers for standard rooms to boost occupancy."
-Booking Lead Time vs. Occupancy:-
-Identify how lead time influences occupancy. "Bookings made 30+ days in advance have a 10% higher occupancy rate than last-minute bookings. Focus on early-bird offers to increase advanced bookings."
+Create the metrics according to the metric list.
+Create a dashboard according to the mock-up provided by stakeholders.
+Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+Learnt things from this Project
+Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. (Article referred)
+By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
+
+Some Important insights from the Dashboard
+Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+AtliQ Bay has the highest occupancy of 66%
+Week 24 recorded the highest revenue among all, which is 139.6 Million
+Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+AtliQ lost around 298 Million in cancellation
+Elite type rooms has the most booking and as well higher cancellation rate
 
